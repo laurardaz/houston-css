@@ -1,0 +1,24 @@
+h1, h2, h3 {
+    font-family: Arial;
+    margin: 1.5em 0% 1em;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+table, th, td {
+    border: 1px solid #000000;
+}
+
+
+
+.sign {
+    float: right;
+    margin: 7px 0 7px 7px;
+    font-style: italic;
+}
+
+.sign figcation {
+    margin: 7px 0 7px 7px;
+}
